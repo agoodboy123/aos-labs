@@ -1,0 +1,25 @@
+Time: 2026-09-14T10:53:41+0800
+User: linuxuser1
+Directory: /home/linuxuser1/projects/file-demo
+Kernel: Linux localhost.localdomain 3.10.0-693.el7.x86_64 #1 SMP Tue Aug 22 21:09:27 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+OS:
+NAME="CentOS Linux"
+VERSION="7 (Core)"
+ID="centos"
+ID_LIKE="rhel fedora"
+VERSION_ID="7"
+PRETTY_NAME="CentOS Linux 7 (Core)"
+ANSI_COLOR="0;31"
+CPE_NAME="cpe:/o:centos:centos:7"
+HOME_URL="https://www.centos.org/"
+BUG_REPORT_URL="https://bugs.centos.org/"
+
+CENTOS_MANTISBT_PROJECT="CentOS-7"
+CENTOS_MANTISBT_PROJECT_VERSION="7"
+REDHAT_SUPPORT_PRODUCT="centos"
+REDHAT_SUPPORT_PRODUCT_VERSION="7"
+
+Python: Python 3.6.8
+Python path: /home/linuxuser1/projects/file-demo/.venv/bin/python
+Git commit: 0f10f896d18816bd223aeae57c3f4db2539e27ce
+Packages:

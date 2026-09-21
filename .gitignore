@@ -1,0 +1,15 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时输出
+*.out
+
+# 第一次作业生成的数据
+lab01-file-demo/data/input/
+lab01-file-demo/data/output/
+lab01-file-demo/demo.log
