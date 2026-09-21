@@ -4,6 +4,7 @@
 
 - `lab01-file-demo/` — 第1次课：系统观察（进程、线程、打开文件、系统调用）
 - `lab02-cpu-sched/` — 第2次课：CPU 调度与资源竞争（A/B/C/D 四组对照）
+  - [实验报告](lab02-cpu-sched/REPORT.md)
 
 ## 第2次课关键结论
 
