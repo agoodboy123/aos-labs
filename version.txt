@@ -1,0 +1,3 @@
+git add version.txtgit commit -m "更新最终版本信息"git push
+
+
